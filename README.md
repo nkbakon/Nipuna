@@ -10,8 +10,8 @@ If your company has any current or upcoming opportunities that match my skills, 
 
 Please feel free to review my portfolio and profiles below:
 
-🌐 Portfolio: [https://aboutnipuna.netlify.app/](https://aboutnipuna.netlify.app/)
-💼 LinkedIn: [https://www.upwork.com/freelancers/~01b2c0723e7d](https://www.linkedin.com/in/nipuna-alahakoon-848a24220/)
+🌐 Portfolio: [https://aboutnipuna.netlify.app/](https://aboutnipuna.netlify.app/) <br>
+💼 LinkedIn: [https://www.upwork.com/freelancers/~01b2c0723e7d](https://www.linkedin.com/in/nipuna-alahakoon-848a24220/)<br>
 ⭐ GitHub: [https://www.fiverr.com/nklight](https://github.com/nkbakon)
 
 Thank you for your time and consideration. I look forward to hearing from you.
